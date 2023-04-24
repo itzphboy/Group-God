@@ -1,7 +1,7 @@
-<h1>ᴍᴜᴋᴇsʜ ʀᴏʙᴏᴛ</h1>
+<h1>GROUP GOD ʀᴏʙᴏᴛ</h1>
 ━━━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://github.com/Noob-Mukesh/MukeshRobot/blob/main/MukeshRobot/resources/mukesh.jpg">
+  <https://graph.org/file/aac5c6186409302ae16ed.jpg">
 </p>
 <p align="center">
     <a href="https://github.com/Noob-Mukesh/MukeshRobot/stargazers"><img src="https://img.shields.io/github/stars/Noob-Mukesh/MukeshRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
@@ -24,15 +24,12 @@
  ━━━━━━━━━━━━━━━━━━━━━━
 
 ### ㅤㅤㅤㅤᴄʀᴇᴅɪᴛs 
- [ ᴍᴜᴋᴇsʜ ](https://t.me/itz_legend_coder)
-
- [ᴀɴᴏɴʏᴍᴏᴜs](https://telegram.me/anonymous_was_bot)  
-
+ [ KARSH ](https://t.me/NISHKARSH88)
 
 
  ###  sᴜᴘᴘᴏʀᴛ 
 
-[sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/the_support_chat)
+[sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/GroupGodSupport)
 
-[sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ](https://t.me/mukeshbotzone)
+[sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ](https://t.me/KARSHFEELINGS)
  
