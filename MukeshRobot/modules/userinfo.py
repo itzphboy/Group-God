@@ -338,16 +338,16 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/itz_legend_coder"
+                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/NISHKARSH88"
                             ),
                             InlineKeyboardButton(
-                                "Dɪsᴀsᴛᴇʀ", url="https://t.me/mukeshbotzone/26"
+                                "Dɪsᴀsᴛᴇʀ", url="https://t.me/GroupGodSupport"
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕",
-                                url=f"https://t.me/groupcontrollertgbot?startgroup=true",
+                                url=f"https://t.me/GGKarsh_Bot?startgroup=true",
                             ),
                         ],
                     ]
@@ -373,7 +373,7 @@ def info(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕",
-                                url=f"https://t.me/groupcontrollertgbot?startgroup=true",
+                                url=f"https://t.me/GGKarsh_Bot?startgroup=true",
                             ),
                         ],
                     ]
