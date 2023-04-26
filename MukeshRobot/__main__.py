@@ -880,7 +880,7 @@ def main():
                     [
                         InlineKeyboardButton(
                             text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ➕",
-                            url="https://t.me/@GGKarsh_Bot?startgroup=true"
+                            url="https://t.me/GGKarsh_Bot?startgroup=true"
                             )
                        ]
                         
@@ -892,9 +892,9 @@ def main():
                 f"@{SUPPORT_CHAT}",
                 photo="https://graph.org/file/65070d50eacceffe1010a.jpg",
                 caption=f"""
-✨ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.
+✨ {BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.
 ━━━━━━━━━━━━━
-**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ **("https://t.me/NISHKARSH88")
+**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ ** @NISHKARSH88
 **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ:** `{telever}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{tlhver}`
