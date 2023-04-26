@@ -890,11 +890,11 @@ def main():
         try:
             dispatcher.bot.send_photo(
                 f"@{SUPPORT_CHAT}",
-                photo="https://te.legra.ph/file/b99b3bc89e38e6ea61ac3.jpg",
+                photo="https://graph.org/file/65070d50eacceffe1010a.jpg",
                 caption=f"""
 ✨ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.
 ━━━━━━━━━━━━━
-**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ **[ᴏᴡɴᴇʀ]("https://t.me/mr_sukkun")
+**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ **[ᴏᴡɴᴇʀ]("https://t.me/NISHKARSH88")
 **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ:** `{telever}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{tlhver}`
