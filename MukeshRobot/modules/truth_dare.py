@@ -1,21 +1,19 @@
-import random
-
+import requests
 from telegram import Update
 from telegram.ext import CallbackContext
 
-import MukeshRobot.modules.truth_and_dare_string as truth_and_dare_string
 from MukeshRobot import dispatcher
 from MukeshRobot.modules.disable import DisableAbleCommandHandler
 
 
 def truth(update: Update, context: CallbackContext):
-    context.args
-    update.effective_message.reply_text(random.choice(truth_and_dare_string.TRUTH))
+    truth = requests.get(f"https://api.truthordarebot.xyz/v1/truth").json()["question"]
+    update.effective_message.reply_text(truth)
 
 
 def dare(update: Update, context: CallbackContext):
-    context.args
-    update.effective_message.reply_text(random.choice(truth_and_dare_string.DARE))
+    dare = requests.get(f"https://api.truthordarebot.xyz/v1/dare").json()["question"]
+    update.effective_message.reply_text(dare)
 
 
 TRUTH_HANDLER = DisableAbleCommandHandler("truth", truth)
@@ -23,6 +21,7 @@ DARE_HANDLER = DisableAbleCommandHandler("dare", dare)
 
 dispatcher.add_handler(TRUTH_HANDLER)
 dispatcher.add_handler(DARE_HANDLER)
+
 
 __help__ = """
 *ᴛʀᴜᴛʜ & ᴅᴀʀᴇ*
