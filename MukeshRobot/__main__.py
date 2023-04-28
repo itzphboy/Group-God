@@ -427,7 +427,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="🚩sᴜᴩᴩᴏʀᴛ🚩", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="💗ᴜᴩᴅᴀᴛᴇs💓", url=f"https://t.me/KARSHFEELINGS"
+                            text="💗ᴜᴩᴅᴀᴛᴇs💓", url=f"https://t.me/Karsh_Official"
                         ),
                     ],
                     [
