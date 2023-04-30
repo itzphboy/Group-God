@@ -103,6 +103,9 @@ async def imdb(e):
             link_preview=True,
             parse_mode="HTML",
 
+        )
+    except IndexError:
+        await e.reply("Plox enter **Valid movie name** kthx")
 
 
 __help__ = """
