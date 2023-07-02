@@ -26,12 +26,12 @@
 <h2> <a href="https://youtu.be/YT_nYVb0OxI"> Tᴜᴛᴏʀɪᴀʟ </a>  </h2>
 
 ### ㅤㅤㅤㅤᴄʀᴇᴅɪᴛs 
- [ KARSH ](https://t.me/NISHKARSH88)
+ [ ITZPHBOY ](https://t.me/itzphboy)
 
 
  ###  sᴜᴘᴘᴏʀᴛ 
 
-[sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/GroupGodSupport)
+[sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/ITZPHBOY)
 
-[sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ](https://t.me/KARSHFEELINGS)
+[sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ](https://t.me/ITZPHBOY)
  
